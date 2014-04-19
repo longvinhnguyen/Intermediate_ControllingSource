@@ -98,5 +98,36 @@
 		<key>famousQuote</key>
 		<string>&quot;We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty. We must start in our own homes to remedy this kind of poverty.&quot;</string>
 	</dict>
+	<dict>
+		<key>personName</key>
+		<string>Abraham Lincoln</string>
+		<key>famousQuote</key>
+		<string>&quot;Better to remain silent and be thought a fool than to speak out and remove all doubt.
+Better to remain silent and be thought a fool than to speak out and remove all doubt.&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>John F. Kennedy</string>
+		<key>famousQuote</key>
+		<string>&quot;Change is the law of life. And those who look only to the past or present are certain to miss the future.&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>Thomas A. Edison</string>
+		<key>famousQuote</key>
+		<string>&quot;Many of life's failures are people who did not realize how close they were to success when they gave up.&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>Zig Ziglar</string>
+		<key>famousQuote</key>
+		<string>&quot;If God would have wanted us to live in a permissive society He would have given us Ten Suggestions and not Ten Commandments.&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>Spike Milligan</string>
+		<key>famousQuote</key>
+		<string>&quot;All I ask is the chance to prove that money can't make me happy.&quot;</string>
+	</dict>
 </array>
 </plist>
